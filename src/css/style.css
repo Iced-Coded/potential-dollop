@@ -1,0 +1,40 @@
+.textbox {
+    display: flex;
+    flex-direction: row;
+}
+
+.box {
+    width: 75vw
+}
+
+#entry {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#cooltext {
+    width: 50%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.textbox2 {
+    width: 70%;
+    margin-right: 5%;
+}
+
+a {
+    color: black
+}
+
+.img-w-txt {
+    display: flex;
+    flex-direction: column;
+    margin-right: 5%;
+}
